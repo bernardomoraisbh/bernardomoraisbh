@@ -1,11 +1,10 @@
 # [![GitHub followers](https://img.shields.io/github/followers/tetration.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tetration?tab=followers) Bernardo Morais Alfredo
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-morais-a430061b1/)](https://www.linkedin.com/in/bernardo-morais-a430061b1/)
 ## Hi there 👋
 
 
 **About me:**
-
-![stats](https://github-readme-stats.vercel.app/api?username=bernardomoraisbh&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 - C#, Python, Java and Vue.js developer.
 
